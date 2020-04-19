@@ -7,7 +7,7 @@ import os
 import random
 import string
 
-TOKEN = ('1097188587:AAESMH6Nj9YWansvJflzUJnErzvEWmNdrew')
+TOKEN = ('bothfather')
 
 THREADS_LIMIT = 1300
 
